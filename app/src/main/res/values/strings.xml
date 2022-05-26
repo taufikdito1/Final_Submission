@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="welcome">"Welcome !"</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="password_error">Password cannot be less than 6 characters</string>
+    <string name="email">Email</string>
+
+    <string name="logo">logo</string>
+    <string name="from_gallery">From gallery</string>
+    <string name="upload">Upload</string>
+    <string name="name">Name</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_username">Username invalid</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="camera">Camera</string>
+    <string name="Desc">Description</string>
+    <string name="story_description">Story Description</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="story_image">story_image</string>
+    <string name="hello">Hello</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="retry">Coba lagi</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="button_story_maps">Button Story Maps</string>
+    <string name="button_to_add_story">Button to add story</string>
+    <string name="image_from_story">Image from story</string>
+    <string name="icon_story_app">Icon Story App</string>
+</resources>
